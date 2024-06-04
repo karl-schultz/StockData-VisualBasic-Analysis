@@ -1,6 +1,2 @@
 # KarlSchultz_Module2Challenge
-This is Karl Schultz's submission for Week 2 Challenge assignment for University of Oregon Data Analytics Bootcamp. This repository contains screenshots of 
-the fully realized project in Excel with the vba code delivering all the correct outputs for the multiple_year_stock_data.xslm file. The screenshots
-are named in terms of year as is the name of the individual sheets in the Excel file. I've also included the visual basic code to run these results
-at user's leisure. Simply go into excel and import vba code or copy from notepad file to create macro. Then run macro named ModuleChallenge to see 
-results replicated.
+This project builds a macro in Visual Basic to analyze stock market data in Excel. The script loops through one quarter of stock data and stores all of the following values from each row: ticker, volume of stock, open price, closing price. To run, go into Excel and import StockData-Analyzer vba code or copy from notepad file to create macro. Run the macro on all three years of stock data to replicate result shown in the three screenshots
