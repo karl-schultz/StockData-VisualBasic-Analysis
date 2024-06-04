@@ -1,5 +1,5 @@
 Attribute VB_Name = "Module1"
-Sub Module2Challenge()
+Sub StockData_Analyzer()
 
 'Create WkSht object so to call all worksheets in project for years 2018, 2019, 2020
 Dim WkSht As Object
